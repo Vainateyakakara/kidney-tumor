@@ -24,18 +24,6 @@ This project detects kidney tumors from CT scan images using a VGG16-based Convo
 - NumPy
 - Git & GitHub
 
-## Project Structure
-├── src/
-├── config/
-├── artifacts/
-├── research/
-├── templates/
-├── static/
-├── app.py
-├── main.py
-├── dvc.yaml
-├── params.yaml
-└── requirements.txt
 
 ## Workflow
 1. Data Ingestion
