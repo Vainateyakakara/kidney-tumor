@@ -39,6 +39,6 @@ The model was trained using transfer learning with VGG16 and tracked using MLflo
 ## Installation
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone <https://github.com/Vainateyakakara/kidney-tumor>
+cd <kidney-tumor>
 pip install -r requirements.txt
